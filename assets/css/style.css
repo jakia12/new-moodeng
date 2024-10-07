@@ -62,7 +62,7 @@ body {
 }
 
 section {
-  background: #809c13;
+  background: #cc8d79;
 }
 
 .btns a {
@@ -255,7 +255,7 @@ section {
 
 .marquee span {
   height: 100%;
-  color: #809c13;
+  color: #cc8d79;
   font-family: var(--font-gentyDemo);
   font-size: 32.07px;
   text-shadow: 0 5px 5px #393c3726;
@@ -269,6 +269,15 @@ section {
 
 .ttl {
   font-size: 140px;
+  text-shadow: 0 5px 5px #393c37;
+  color: white;
+  font-family: var(--font-amiger) !important;
+}
+
+.title_styling {
+  text-shadow: 0 5px 5px #393c37;
+  color: white;
+  font-family: var(--font-amiger);
 }
 
 @media screen and (max-width: 768px) {
