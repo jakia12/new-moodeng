@@ -279,6 +279,13 @@ section {
   color: white;
   font-family: var(--font-amiger);
 }
+.marquee span {
+  height: 100%;
+  color: #482500;
+  font-family: var(--font-amiger);
+  font-size: 32.07px;
+  text-shadow: 0 5px 5px #393c3726;
+}
 
 @media screen and (max-width: 768px) {
   .ttl {
