@@ -266,3 +266,13 @@ section {
   color: white;
   font-family: var(--font-amiger);
 }
+
+.ttl {
+  font-size: 140px;
+}
+
+@media screen and (max-width: 768px) {
+  .ttl {
+    font-size: 75px;
+  }
+}
